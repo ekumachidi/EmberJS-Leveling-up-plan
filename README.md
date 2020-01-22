@@ -1,6 +1,6 @@
 # EmberJS-Leveling-up-plan
 
-Create a [new issue](https://github.com/ekumachidi/Ember-Ramp/issues/new) to make your own checklist. 
+Create a [new issue](https://github.com/ekumachidi/EmberJS-Leveling-up-plan/issues/new) to make your own checklist. 
 
 
 # EMBER JS - Leveling Up Plan

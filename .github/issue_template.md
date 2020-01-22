@@ -246,11 +246,11 @@ This plan requires an 80hours commitment to cover the different areas. This is s
 
 Milestone: SKILL LEVEL TESTING : PROGRESS DETERMINATION
 
-Coverage : Knowledge + Expertise From Practising + Autonomy
+Coverage: Knowledge + Expertise From Practising + Autonomy
 
-Purpose : To have an Emperical Score of His Skillset at the end of the Plan, to boost his confidence to allow him to work with EmberJS with Autonomy
+Purpose: To have an Emperical Score of His Skillset at the end of the Plan, to boost his confidence to allow him to work with EmberJS with Autonomy
 
-**WEEKS 31-40 - _20 Hours_:**
+**Days 31-40 - _20 Hours_:**
 
 - [ ] Develop App from the ground up using EmberJS
 - [ ] Measure progress with accountability partner

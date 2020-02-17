@@ -10,7 +10,7 @@ This plan requires an 80hours commitment to cover the different areas. This is s
 
 **Time Commitment:** Sprint 1 - 10hrs/Sprint
 
-**Daily Commitment:** 1 - 10hrs/day
+**Daily Commitment:** 1hr/day
 
 **Coverage:** Knowledge - Understanding EmberJS Framework
 
